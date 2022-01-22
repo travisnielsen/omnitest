@@ -1,0 +1,13 @@
+{
+    "folders": [
+      {
+        "path": "consoledemo"
+      },
+      {
+        "path": "blazordemo"
+      }
+    ],
+    "settings": {
+      "razor.disableBlazorDebugPrompt": true
+    }
+  }
